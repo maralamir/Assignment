@@ -1,0 +1,57 @@
+,City,Link,Mayor,Party,White,Black,Asian,Latino,White Normalize,Black Normalize,Asian Normalize,Latino Normalize,Encoded Party
+0,Newark,"https://wikipedia.org/wiki/Newark,_New_Jersey",Ras Baraka ,D,11.6,52.4,1.6,33.8,0.02,0.62,0.02,0.53,1
+1,Toledo,"https://wikipedia.org/wiki/Toledo,_Ohio",Wade Kapszukiewicz ,D,64.8,27.2,1.1,7.4,0.86,0.31,0.0,0.12,1
+2,San Francisco,https://wikipedia.org/wiki/San_Francisco,London Breed ,D,41.9,6.1,33.3,15.1,0.5,0.05,1.0,0.24,1
+3,Sacramento,"https://wikipedia.org/wiki/Sacramento,_California",Darrell Steinberg ,D,45.0,14.6,18.3,26.9,0.55,0.16,0.54,0.43,1
+4,San Mateo,"https://wikipedia.org/wiki/San_Mateo,_California",Diane Papan,D,46.5,2.2,18.7,26.6,0.57,0.0,0.55,0.42,1
+5,Atlanta,https://wikipedia.org/wiki/Atlanta,Keisha Lance Bottoms ,D,41.3,51.4,3.7,4.7,0.49,0.61,0.08,0.07,1
+6,Los Angeles,https://wikipedia.org/wiki/Los_Angeles,Eric Garcetti ,D,28.7,9.6,11.3,48.5,0.29,0.09,0.32,0.77,1
+7,Miami,https://wikipedia.org/wiki/Miami,Francis X. Suarez ,R,11.9,19.2,1.0,0.0,0.02,0.21,0.0,0.0,4
+8,Virginia Beach,"https://wikipedia.org/wiki/Virginia_Beach,_Virginia",Bobby Dyer ,R,64.5,19.6,6.1,6.6,0.85,0.22,0.16,0.1,4
+9,Cincinnati,https://wikipedia.org/wiki/Cincinnati,John Cranley ,D,49.3,44.8,1.8,2.8,0.61,0.53,0.02,0.04,1
+10,Fresno,"https://wikipedia.org/wiki/Fresno,_California",Lee Brand ,R,50.6,8.3,12.6,46.9,0.63,0.08,0.36,0.74,4
+11,Washington,"https://wikipedia.org/wiki/Washington,_D.C.",Muriel Bowser ,D,38.5,50.7,3.5,9.1,0.44,0.6,0.08,0.14,1
+12,Fort Worth,"https://wikipedia.org/wiki/Fort_Worth,_Texas",Betsy Price ,R,61.6,18.9,3.7,34.1,0.81,0.21,0.08,0.54,4
+13,Minneapolis,https://wikipedia.org/wiki/Minneapolis,Jacob Frey ,D,63.8,18.6,5.6,10.5,0.84,0.21,0.14,0.17,1
+14,Long Beach,"https://wikipedia.org/wiki/Long_Beach,_California",Robert Garcia ,D,46.1,13.5,12.9,40.8,0.56,0.14,0.37,0.65,1
+15,Salt Lake City,https://wikipedia.org/wiki/Salt_Lake_City,Jackie Biskupski ,D,73.7,2.0,5.4,21.3,1.0,0.0,0.14,0.34,1
+16,Denver,https://wikipedia.org/wiki/Denver,Michael Hancock ,D,68.9,10.2,3.4,31.8,0.92,0.1,0.07,0.5,1
+17,Pittsburgh,https://wikipedia.org/wiki/Pittsburgh,Bill Peduto ,D,66.0,26.1,4.4,2.3,0.88,0.3,0.11,0.04,1
+18,New York City,https://wikipedia.org/wiki/New_York_City,Bill de Blasio ,D,44.0,25.5,12.7,28.6,0.53,0.29,0.36,0.45,1
+19,San Diego,https://wikipedia.org/wiki/San_Diego,Kevin Faulconer ,R,58.9,6.7,15.9,28.8,0.77,0.06,0.46,0.46,4
+20,Albuquerque,"https://wikipedia.org/wiki/Albuquerque,_New_Mexico",Tim Keller ,D,69.7,3.3,2.6,46.7,0.94,0.02,0.05,0.74,1
+21,San Antonio,https://wikipedia.org/wiki/San_Antonio,Ron Nirenberg ,I,72.6,6.9,2.4,63.2,0.98,0.06,0.04,1.0,2
+22,San Jose,"https://wikipedia.org/wiki/San_Jose,_California",Sam Liccardo ,D,42.8,3.2,32.0,33.2,0.51,0.01,0.96,0.53,1
+23,Sunnyvale,"https://wikipedia.org/wiki/Sunnyvale,_California",Larry Klein,L,,,,,,,,,3
+24,Buffalo,"https://wikipedia.org/wiki/Buffalo,_New_York",Byron Brown ,D,50.4,38.6,3.2,10.5,0.63,0.45,0.07,0.17,1
+25,Seattle,https://wikipedia.org/wiki/Seattle,Jenny Durkan ,D,69.5,7.9,13.8,6.6,0.93,0.07,0.4,0.1,1
+26,Boston,https://wikipedia.org/wiki/Boston,Marty Walsh ,D,45.3,25.4,9.3,0.0,0.55,0.29,0.26,0.0,1
+27,Las Vegas,https://wikipedia.org/wiki/Las_Vegas,Carolyn Goodman ,I,62.1,11.1,6.1,31.5,0.82,0.11,0.16,0.5,2
+28,Dallas,https://wikipedia.org/wiki/Dallas,Mike Rawlings ,D,50.7,24.7,2.9,42.4,0.64,0.28,0.06,0.67,1
+29,Columbus,"https://wikipedia.org/wiki/Columbus,_Georgia","B. H. ""Skip"" Henderson III ",R,46.3,45.5,2.2,6.4,0.57,0.54,0.04,0.1,4
+30,Indianapolis,https://wikipedia.org/wiki/Indianapolis,Joe Hogsett ,D,61.6,28.0,2.8,9.9,0.81,0.32,0.06,0.16,1
+31,Memphis,"https://wikipedia.org/wiki/Memphis,_Tennessee",Jim Strickland ,D,29.4,63.3,1.6,6.5,0.3,0.76,0.02,0.1,1
+32,Saint Paul,"https://wikipedia.org/wiki/Saint_Paul,_Minnesota",Melvin Carter ,D,60.1,15.7,15.0,9.6,0.78,0.17,0.43,0.15,1
+33,Detroit,https://wikipedia.org/wiki/Detroit,Mike Duggan ,D,10.6,82.7,1.1,6.8,0.0,1.0,0.0,0.11,1
+34,Austin,"https://wikipedia.org/wiki/Austin,_Texas",Steve Adler ,D,68.3,8.1,6.3,35.1,0.91,0.08,0.16,0.56,1
+35,Stockton,"https://wikipedia.org/wiki/Stockton,_California",Michael Tubbs ,D,37.0,12.2,21.5,40.3,0.42,0.13,0.63,0.64,1
+36,Concord,"https://wikipedia.org/wiki/Concord,_California",Carlyn Obringer,C,50.3,3.3,10.8,30.6,0.63,0.02,0.3,0.48,0
+37,New Orleans,https://wikipedia.org/wiki/New_Orleans,LaToya Cantrell ,D,33.0,60.2,2.9,5.2,0.35,0.72,0.06,0.08,1
+38,Cleveland,https://wikipedia.org/wiki/Cleveland,Frank G. Jackson ,D,37.3,53.3,1.8,10.0,0.42,0.64,0.02,0.16,1
+39,Oklahoma City,https://wikipedia.org/wiki/Oklahoma_City,David Holt ,R,62.7,15.1,4.0,17.2,0.83,0.16,0.09,0.27,4
+40,Chicago,https://wikipedia.org/wiki/Chicago,Lori Lightfoot ,D,44.9,32.9,5.5,28.9,0.54,0.38,0.14,0.46,1
+41,Yonkers,"https://wikipedia.org/wiki/Yonkers,_New_York",Mike Spano ,D,55.8,16.0,5.8,34.7,0.72,0.17,0.15,0.55,1
+42,Philadelphia,https://wikipedia.org/wiki/Philadelphia,Jim Kenney ,D,34.9,41.3,7.1,14.1,0.39,0.49,0.19,0.22,1
+43,Mobile,"https://wikipedia.org/wiki/Mobile,_Alabama",Sandy Stimpson ,R,45.0,50.6,1.8,2.4,0.55,0.6,0.02,0.04,4
+44,Jacksonville,"https://wikipedia.org/wiki/Jacksonville,_Florida",Lenny Curry ,R,59.4,30.7,4.3,7.7,0.77,0.36,0.1,0.12,4
+45,Bakersfield,"https://wikipedia.org/wiki/Bakersfield,_California",Karen K. Goh ,R,56.8,8.1,6.2,45.5,0.73,0.08,0.16,0.72,4
+46,Omaha,"https://wikipedia.org/wiki/Omaha,_Nebraska",Jean Stothert ,R,73.1,13.7,2.4,13.1,0.99,0.14,0.04,0.21,4
+47,Jersey City,"https://wikipedia.org/wiki/Jersey_City,_New_Jersey",Steven Fulop,D,32.7,25.8,23.7,27.6,0.35,0.29,0.7,0.44,1
+48,Anchorage,"https://wikipedia.org/wiki/Anchorage,_Alaska",Ethan Berkowitz ,D,66.0,5.6,8.1,7.6,0.88,0.04,0.22,0.12,1
+49,Kansas City,"https://wikipedia.org/wiki/Kansas_City,_Kansas",David Alvey,D,52.2,26.8,2.7,27.8,0.66,0.31,0.05,0.44,1
+50,Raleigh,"https://wikipedia.org/wiki/Raleigh,_North_Carolina",Nancy McFarlane ,I,57.5,29.3,4.3,11.4,0.74,0.34,0.1,0.18,2
+51,Baltimore,https://wikipedia.org/wiki/Baltimore,Jack Young ,D,29.6,63.7,2.3,4.2,0.3,0.76,0.04,0.07,1
+52,St. Louis,https://wikipedia.org/wiki/St._Louis,Lyda Krewson ,D,47.2,46.4,3.4,4.0,0.58,0.55,0.07,0.06,1
+53,Houston,https://wikipedia.org/wiki/Houston,Sylvester Turner ,D,25.6,25.7,6.0,43.7,0.24,0.29,0.15,0.69,1
+54,Milwaukee,https://wikipedia.org/wiki/Milwaukee,Tom Barrett ,D,37.0,40.0,3.5,17.3,0.42,0.47,0.08,0.27,1
+55,Oakland,"https://wikipedia.org/wiki/Oakland,_California",Libby Schaaf ,D,34.5,28.0,16.8,25.3,0.38,0.32,0.49,0.4,1
